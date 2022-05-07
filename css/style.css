@@ -590,9 +590,4 @@ section.fade-out {
         margin: 0 7px 15px;
     }
 }
-
-    @media(max-width: 676px) {
-        .home-section {
-            padding: 25px 0;
-        }
     }
